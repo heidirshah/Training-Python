@@ -1,1 +1,1 @@
-print("Morning World12345")
+print("Assalamualaikum")

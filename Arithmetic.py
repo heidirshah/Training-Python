@@ -1,0 +1,11 @@
+#arithmetic operators
+print("Addition: 5+5",5+5,sep="=")
+print("subtraction: 5-5",5-5,sep="=")
+print("multiply: 5*5",5*5,sep="=")
+print("division: 5/5",5/5,sep="=")
+print("division: 10/3",10/3,sep="=")
+print("integer division 10/3",10//3,sep="=")
+print("exponentiation 5**5",5**5,sep="=")
+print("modulo 10%3",10%3,sep="=")
+print("Arithmetic operation with different data type: 5+5.0",5+5.0,sep="=")
+print(1+5*6**2/2)
